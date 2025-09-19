@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+3
+año
+7
+0
+1
+13
+Año MOD 4 = 0
+4
+1
+16
+"No es bisiesto"
+13
+7
+0
+1
+15
+Año MOD 100 = 0
+4
+1
+16
+"si es bisiesto"
+13
+7
+0
+1
+15
+Año MOD 400 = 0
+4
+1
+16
+"no es bisiesto"
+13
+4
+1
+16
+"si es bisiesto"
+13
+13
+13
+1
