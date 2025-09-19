@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+"Ingrese la temperatura en grados Celsius"
+5
+1
+7
+celsius
+6
+1
+10
+fahrenheit
+22
+(celsius * 9 / 5) + 32
+7
+1
+1
+11
+celsius>100
+4
+1
+52
+"el agua ya alcanzo o supero el punto de ebullicion"
+13
+6
+1
+6
+faltan
+13
+100 - celsius
+4
+1
+57
+"faltan", faltan, "°C para llegar al punto de ebullicion"
+13
+1
